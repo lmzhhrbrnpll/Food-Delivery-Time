@@ -70,5 +70,5 @@ The dataset contains delivery information with the following key features:
 
 ## 📞 Contact
 **Lamzahhera Berinpalla**
-- LinkedIn: [Lamzahhera Berinpalla(https://www.linkedin.com/in/lamzahheraberinpalla/)]
+- LinkedIn: [Lamzahhera Berinpalla](https://www.linkedin.com/in/lamzahheraberinpalla/)
 - Email: lamzahheraberin@gmail.com
